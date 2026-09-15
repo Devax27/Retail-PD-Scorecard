@@ -97,15 +97,3 @@ Risk Decile & Lift Analysis
 PSI Monitoring
        ↓
 Production Scoring
-
----
-
-# 👤 Author
-
-## Devansh Gupta
-
-**Data Analytics | Data Science | Credit Risk Modeling**
-
-An end-to-end portfolio project demonstrating practical application of:
-
-**SAS + WOE/IV + Logistic Regression + Probability of Default + Credit Scorecard + Model Validation**
