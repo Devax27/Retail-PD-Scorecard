@@ -1,0 +1,5 @@
+*.csv
+*.xlsx
+*.sas7bdat
+*.log
+.DS_Store
